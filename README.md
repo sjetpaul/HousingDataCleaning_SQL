@@ -1,6 +1,6 @@
 # Housing Dataset Data Cleaning Using SQL
 
-Modify Dataset by Performing Action Querys Update, Delete, Alter.
+Data Cleaning and Preparation using Action Querys like Update, Delete, Alter.
 
 Increase the Usability of String Values column by splitting them as new columns.
 
